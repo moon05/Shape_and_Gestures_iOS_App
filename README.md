@@ -26,18 +26,23 @@ it the distance between the two circles remain the same for the effect to kick i
 <br>
 Circles
 [!alt][circles]
+
 [circles]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/raw/circles_oneTap.png
 Squares
 [Image][squares]
+
 [squares]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/squares_doubleTap.png
 Triangles
 [Image][triangles]
+
 [triangles]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/triangles_tripleTap.png
 A Custom Shape
 [Image][funkyShape]
+
 [funkyShape]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/funkyShape_rotate.png
 Everything Together
 [Image][everything]
+
 [everything]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/allGestures.png
 <br>
 As you can see from the screenshots, the circles and squares are created at the same point. Same thing
