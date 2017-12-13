@@ -33,7 +33,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
         dTap.numberOfTapsRequired = 2
         dTap.addTarget(self, action: #selector(ViewController.handleDoubleTap))
         
-        //Triple Tap --> EXTRA CREDIT
+        //Triple Tap
         tTap.numberOfTapsRequired = 3
         tTap.addTarget(self, action: #selector(ViewController.handleTripleTap))
         
@@ -103,7 +103,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
         let location = touch.location(in: self.view)
         
         let shapeLayer = CAShapeLayer();
-        shapeLayer.path = makeTrainglePath(location: location)
+        shapeLayer.path = makeTrianglePath(location: location)
         let color = randomColor().cgColor
         shapeLayer.strokeColor = color
         shapeLayer.fillColor = color
@@ -192,8 +192,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
         return rectPath.cgPath
     }
     
-    // Function for Extra Credit Work
-    func makeTrainglePath(location: CGPoint) -> CGPath {
+    func makeTrianglePath(location: CGPoint) -> CGPath {
         
         let path = UIBezierPath()
         path.move(to: location)
