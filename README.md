@@ -25,9 +25,9 @@ it the distance between the two circles remain the same for the effect to kick i
 #### Screenshots of the Shapes:
 <br>
 Circles
-[!alt][circles]
+[Image][circles]
 
-[circles]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/raw/circles_oneTap.png
+[circles]: https://raw.githubusercontent.com/moon05/Shape_and_Gestures_iOS_App/screenshots/raw/circles_oneTap.png
 Squares
 [Image][squares]
 
