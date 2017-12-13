@@ -1,9 +1,12 @@
 # Shape_and_Gestures_iOS_App
+
 <br>
 In this very simple app, I have tried to demonstrate how to use different kind of gestures on an UIImageView.
 Of course it can be extended to any other custom UIView as well.
 <br>
+
 #### Gestures experimented:
+
 <br>
 1. Tap
 2. Double Tap
@@ -22,7 +25,9 @@ and you will see two small circles pop to show your interaction. For pinch you c
 however you like to see zooming work. For rotate, you have to make sure that when you are moving
 it the distance between the two circles remain the same for the effect to kick in.
 <br>
+
 #### Screenshots of the Shapes:
+
 <br>
 
 Circles
