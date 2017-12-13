@@ -24,18 +24,22 @@ it the distance between the two circles remain the same for the effect to kick i
 <br>
 #### Screenshots of the Shapes:
 <br>
+
 Circles
 [Image][circles]
 
 [circles]: https://raw.githubusercontent.com/moon05/Shape_and_Gestures_iOS_App/screenshots/raw/circles_oneTap.png
+
 Squares
 [Image][squares]
 
 [squares]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/squares_doubleTap.png
+
 Triangles
 [Image][triangles]
 
 [triangles]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/triangles_tripleTap.png
+
 A Custom Shape
 [Image][funkyShape]
 
