@@ -26,19 +26,19 @@ it the distance between the two circles remain the same for the effect to kick i
 <br>
 Circles
 [!alt][circles]
-[circles]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/circles_oneTap
+[circles]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/raw/circles_oneTap.png
 Squares
 [!alt][squares]
-[squares]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/squares_doubleTap
+[squares]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/squares_doubleTap.png
 Triangles
 [!alt][triangles]
-[triangles]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/triangles_tripleTap
+[triangles]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/triangles_tripleTap.png
 A Custom Shape
 [!alt][funkyShape]
-[funkyShape]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/funkyShape_rotate
+[funkyShape]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/funkyShape_rotate.png
 Everything Together
 [!alt][everything]
-[everything]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/allGestures
+[everything]: https://github.com/moon05/Shape_and_Gestures_iOS_App/screenshots/allGestures.png
 <br>
 As you can see from the screenshots, the circles and squares are created at the same point. Same thing
 goes for the triangles too, all at the same point. This is because, while trying to make a double or
@@ -47,6 +47,6 @@ pop up. For it to recongnize the taps precisely, you would have to write a custo
 function with delay in it. This is also the reason, I haven't included the _Swipe_ gesture since it doesn't
 work with the Pan gesture (or at least at the time of writing this) the way I have implemented it.
 <br>
-Also if you need to understand how ** UIBezierPath ** works, the shape drawing functions would be a good starting
+Also if you need to understand how **UIBezierPath** works, the shape drawing functions would be a good starting
 point. And then there's always the official documentation.
 <br>
