@@ -47,6 +47,6 @@ pop up. For it to recongnize the taps precisely, you would have to write a custo
 function with delay in it. This is also the reason, I haven't included the _Swipe_ gesture since it doesn't
 work with the Pan gesture (or at least at the time of writing this) the way I have implemented it.
 <br>
-Also if you need to understand how **UIBezierPath** works, the shape drawing functions would be a good starting
+Also if you need to understand how ** UIBezierPath ** works, the shape drawing functions would be a good starting
 point. And then there's always the official documentation.
 <br>
