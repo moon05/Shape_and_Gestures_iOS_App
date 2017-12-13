@@ -145,7 +145,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
         }
         
         if sender.state == .ended {
-            self.view.backgroundColor = UIColor.white
+            self.imageView.backgroundColor = UIColor.white
         }
         
         if sender.state == .changed {
@@ -157,7 +157,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate {
     @objc func handleLongPress(_ sender: UIGestureRecognizer){
         
         if sender.state == .ended {
-            self.view.backgroundColor = randomColor()
+            self.imageView.backgroundColor = randomColor()
         }
         else if sender.state == .began {
             
